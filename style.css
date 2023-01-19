@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat';
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+div {
+    display: table;
+    vertical-align: middle;
+    
+}
+
+div p {
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 300px;
+}
